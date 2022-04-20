@@ -7,6 +7,7 @@ Now you can upload the controller files on your server or you can use also local
 
 ### Config 
 Edit the config file and change the URL, DBUser, DBPass etc.
+
 ![image](https://user-images.githubusercontent.com/70555095/164159151-58a568e0-2657-4107-8555-1cc415561d7d.png)
 
 
